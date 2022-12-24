@@ -7,11 +7,11 @@
 from requests_oauthlib import OAuth2Session
 
 # Our application's credentials. Indeed provides these after app is registered
-client_id = ""
-client_secret = ""
+client_id = "7d31f28eae98bb5590c8b23cadaed8f15fab4f10d7a76c2fa397b9da616417c0"
+client_secret = "fI3pEmt3gNU4sEh7bfQRgj51Ji9XF4NPE59wWDdasDyPEPLjydy5S4KOa5ySC2An"
 
 # Our application's redirect url
-redirect_url = "https://github.com/anom69/indeedapi.github.io.git"
+redirect_url = "https://github.com/anom69/ziontek_website/"
 
 # Indeed identity verification
 authorization_base_url = "https://secure.indeed.com/oauth/v2/authorize"
