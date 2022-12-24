@@ -7,8 +7,8 @@
 from requests_oauthlib import OAuth2Session
 
 # Our application's credentials. Indeed provides these after app is registered
-client_id = "14adb0582d750b9557b60a1a9fda33ca3d320cb890eee0801e0e76bd90be882a"
-client_secret = "8CzwgMTfSV4jWYm2UMfXyJS9ZE4jC87an6znV78anvjUJnwJoYSNhsfqhrZ8LjW6"
+client_id = ""
+client_secret = ""
 
 # Our application's redirect url
 redirect_url = "https://github.com/anom69/indeedapi.github.io.git"
